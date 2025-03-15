@@ -1,4 +1,0 @@
-[2025-03-14 22:41:53,552] 97 werkzeug - WARNING -  * Debugger is active!
-[2025-03-14 22:41:53,552] 97 werkzeug - INFO -  * Debugger PIN: 143-288-806
-[2025-03-14 22:41:57,854] 13 root - INFO - Error occurred in Python file [E:\END TO END ML PROJECT\End--to-end-ml\app.py] at line [10]: This is a test exception
-[2025-03-14 22:41:57,854] 97 werkzeug - INFO - 127.0.0.1 - - [14/Mar/2025 22:41:57] "GET / HTTP/1.1" 200 -
