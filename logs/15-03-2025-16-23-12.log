@@ -1,0 +1,5 @@
+[2025-03-15 16:23:12,801] 22 root - INFO - Initiating Data Ingestion
+[2025-03-15 16:23:12,803] 24 root - INFO - Data Reading using Pandas
+[2025-03-15 16:23:12,816] 26 root - INFO - Data Ingested
+[2025-03-15 16:23:12,884] 30 root - INFO - Data Splitted into Train and Test
+[2025-03-15 16:23:12,991] 33 root - INFO - Data Ingestion Successful

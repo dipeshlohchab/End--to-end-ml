@@ -1,0 +1,33 @@
+[2025-03-15 21:49:56,839] 24 root - INFO - Initiating Data Ingestion
+[2025-03-15 21:49:56,839] 26 root - INFO - Data Reading using Pandas
+[2025-03-15 21:49:56,885] 28 root - INFO - Data Ingested
+[2025-03-15 21:49:57,009] 32 root - INFO - Data Splitted into Train and Test
+[2025-03-15 21:49:57,122] 35 root - INFO - Data Ingestion Successful
+[2025-03-15 21:49:57,122] 67 root - INFO - Initiating Data Transformation
+[2025-03-15 21:49:57,206] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,212] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,212] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,216] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,216] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,222] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,222] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,225] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,225] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,229] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,229] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,232] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,232] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,237] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,237] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,239] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,239] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,244] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,246] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,248] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,248] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,249] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,249] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,254] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,254] 49 root - INFO - Removing Outliers using IQR
+[2025-03-15 21:49:57,257] 57 root - INFO - Outliers Removed
+[2025-03-15 21:49:57,259] 108 root - ERROR - Error in initiateDataTransformation: Data must be 1-dimensional, got ndarray of shape (22775, 14) instead

@@ -1,0 +1,61 @@
+[2025-03-15 21:53:40,273] 24 root - INFO - Initiating Data Ingestion
+[2025-03-15 21:53:40,273] 26 root - INFO - Data Reading using Pandas
+[2025-03-15 21:53:40,314] 28 root - INFO - Data Ingested
+[2025-03-15 21:53:40,435] 32 root - INFO - Data Splitted into Train and Test
+[2025-03-15 21:53:40,561] 35 root - INFO - Data Ingestion Successful
+[2025-03-15 21:53:40,561] 69 root - INFO - Initiating Data Transformation
+[2025-03-15 21:53:40,646] 49 root - INFO - Removing Outliers using IQR for age
+[2025-03-15 21:53:40,652] 58 root - INFO - Outliers Removed for age
+[2025-03-15 21:53:40,652] 49 root - INFO - Removing Outliers using IQR for age
+[2025-03-15 21:53:40,655] 58 root - INFO - Outliers Removed for age
+[2025-03-15 21:53:40,658] 49 root - INFO - Removing Outliers using IQR for workclass
+[2025-03-15 21:53:40,661] 58 root - INFO - Outliers Removed for workclass
+[2025-03-15 21:53:40,661] 49 root - INFO - Removing Outliers using IQR for workclass
+[2025-03-15 21:53:40,661] 58 root - INFO - Outliers Removed for workclass
+[2025-03-15 21:53:40,661] 49 root - INFO - Removing Outliers using IQR for education
+[2025-03-15 21:53:40,661] 58 root - INFO - Outliers Removed for education
+[2025-03-15 21:53:40,661] 49 root - INFO - Removing Outliers using IQR for education
+[2025-03-15 21:53:40,669] 58 root - INFO - Outliers Removed for education
+[2025-03-15 21:53:40,669] 49 root - INFO - Removing Outliers using IQR for education_number
+[2025-03-15 21:53:40,671] 58 root - INFO - Outliers Removed for education_number
+[2025-03-15 21:53:40,671] 49 root - INFO - Removing Outliers using IQR for education_number
+[2025-03-15 21:53:40,671] 58 root - INFO - Outliers Removed for education_number
+[2025-03-15 21:53:40,671] 49 root - INFO - Removing Outliers using IQR for marital_status
+[2025-03-15 21:53:40,671] 58 root - INFO - Outliers Removed for marital_status
+[2025-03-15 21:53:40,671] 49 root - INFO - Removing Outliers using IQR for marital_status
+[2025-03-15 21:53:40,671] 58 root - INFO - Outliers Removed for marital_status
+[2025-03-15 21:53:40,671] 49 root - INFO - Removing Outliers using IQR for occupation
+[2025-03-15 21:53:40,671] 58 root - INFO - Outliers Removed for occupation
+[2025-03-15 21:53:40,671] 49 root - INFO - Removing Outliers using IQR for occupation
+[2025-03-15 21:53:40,684] 58 root - INFO - Outliers Removed for occupation
+[2025-03-15 21:53:40,684] 49 root - INFO - Removing Outliers using IQR for relationship
+[2025-03-15 21:53:40,686] 58 root - INFO - Outliers Removed for relationship
+[2025-03-15 21:53:40,686] 49 root - INFO - Removing Outliers using IQR for relationship
+[2025-03-15 21:53:40,686] 58 root - INFO - Outliers Removed for relationship
+[2025-03-15 21:53:40,686] 49 root - INFO - Removing Outliers using IQR for race
+[2025-03-15 21:53:40,694] 58 root - INFO - Outliers Removed for race
+[2025-03-15 21:53:40,694] 49 root - INFO - Removing Outliers using IQR for race
+[2025-03-15 21:53:40,694] 58 root - INFO - Outliers Removed for race
+[2025-03-15 21:53:40,694] 49 root - INFO - Removing Outliers using IQR for sex
+[2025-03-15 21:53:40,694] 58 root - INFO - Outliers Removed for sex
+[2025-03-15 21:53:40,694] 49 root - INFO - Removing Outliers using IQR for sex
+[2025-03-15 21:53:40,694] 58 root - INFO - Outliers Removed for sex
+[2025-03-15 21:53:40,702] 49 root - INFO - Removing Outliers using IQR for capital_gain
+[2025-03-15 21:53:40,704] 58 root - INFO - Outliers Removed for capital_gain
+[2025-03-15 21:53:40,704] 49 root - INFO - Removing Outliers using IQR for capital_gain
+[2025-03-15 21:53:40,704] 58 root - INFO - Outliers Removed for capital_gain
+[2025-03-15 21:53:40,704] 49 root - INFO - Removing Outliers using IQR for capital_loss
+[2025-03-15 21:53:40,704] 58 root - INFO - Outliers Removed for capital_loss
+[2025-03-15 21:53:40,704] 49 root - INFO - Removing Outliers using IQR for capital_loss
+[2025-03-15 21:53:40,704] 58 root - INFO - Outliers Removed for capital_loss
+[2025-03-15 21:53:40,704] 49 root - INFO - Removing Outliers using IQR for hours_per_week
+[2025-03-15 21:53:40,704] 58 root - INFO - Outliers Removed for hours_per_week
+[2025-03-15 21:53:40,704] 49 root - INFO - Removing Outliers using IQR for hours_per_week
+[2025-03-15 21:53:40,719] 58 root - INFO - Outliers Removed for hours_per_week
+[2025-03-15 21:53:40,719] 49 root - INFO - Removing Outliers using IQR for native_country
+[2025-03-15 21:53:40,719] 58 root - INFO - Outliers Removed for native_country
+[2025-03-15 21:53:40,719] 49 root - INFO - Removing Outliers using IQR for native_country
+[2025-03-15 21:53:40,719] 58 root - INFO - Outliers Removed for native_country
+[2025-03-15 21:53:40,719] 24 root - INFO - Initiating Data Transformation
+[2025-03-15 21:53:40,719] 89 root - INFO - Splitting train data into dependent and independent features
+[2025-03-15 21:53:40,719] 93 root - INFO - Splitting test data into dependent and independent features
