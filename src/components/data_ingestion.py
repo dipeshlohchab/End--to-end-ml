@@ -6,7 +6,7 @@ from src.exception import CustomException
 from dataclasses import dataclass
 from sklearn.model_selection import train_test_split
 from src.components.data_transformation import DataTransformation
-
+from src.components.model_training import ModelTrainer
 
 @dataclass
 class DataIngestionConfig:
@@ -48,4 +48,6 @@ if __name__ == "__main__":
     data_transformation_obj= DataTransformation()
     train_arr, test_arr, _= data_transformation_obj.initiateDataTransformation(train_path, test_path)
 
+    model_trainer_obj= ModelTrainer()
+    print(model_trainer_obj.initiate_model_training(train_arr, test_arr))
     # src\components\data_ingestion.py

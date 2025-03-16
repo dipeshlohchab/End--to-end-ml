@@ -1,0 +1,79 @@
+[2025-03-16 12:28:50,495] 24 root - INFO - Initiating Data Ingestion
+[2025-03-16 12:28:50,499] 26 root - INFO - Data Reading using Pandas
+[2025-03-16 12:28:50,513] 28 root - INFO - Data Ingested
+[2025-03-16 12:28:50,575] 32 root - INFO - Data Splitted into Train and Test
+[2025-03-16 12:28:50,623] 35 root - INFO - Data Ingestion Successful
+[2025-03-16 12:28:50,623] 69 root - INFO - Initiating Data Transformation
+[2025-03-16 12:28:50,662] 49 root - INFO - Removing Outliers using IQR for age
+[2025-03-16 12:28:50,662] 58 root - INFO - Outliers Removed for age
+[2025-03-16 12:28:50,662] 49 root - INFO - Removing Outliers using IQR for age
+[2025-03-16 12:28:50,670] 58 root - INFO - Outliers Removed for age
+[2025-03-16 12:28:50,670] 49 root - INFO - Removing Outliers using IQR for workclass
+[2025-03-16 12:28:50,670] 58 root - INFO - Outliers Removed for workclass
+[2025-03-16 12:28:50,670] 49 root - INFO - Removing Outliers using IQR for workclass
+[2025-03-16 12:28:50,670] 58 root - INFO - Outliers Removed for workclass
+[2025-03-16 12:28:50,670] 49 root - INFO - Removing Outliers using IQR for education
+[2025-03-16 12:28:50,670] 58 root - INFO - Outliers Removed for education
+[2025-03-16 12:28:50,670] 49 root - INFO - Removing Outliers using IQR for education
+[2025-03-16 12:28:50,670] 58 root - INFO - Outliers Removed for education
+[2025-03-16 12:28:50,670] 49 root - INFO - Removing Outliers using IQR for education_number
+[2025-03-16 12:28:50,670] 58 root - INFO - Outliers Removed for education_number
+[2025-03-16 12:28:50,670] 49 root - INFO - Removing Outliers using IQR for education_number
+[2025-03-16 12:28:50,679] 58 root - INFO - Outliers Removed for education_number
+[2025-03-16 12:28:50,679] 49 root - INFO - Removing Outliers using IQR for marital_status
+[2025-03-16 12:28:50,679] 58 root - INFO - Outliers Removed for marital_status
+[2025-03-16 12:28:50,679] 49 root - INFO - Removing Outliers using IQR for marital_status
+[2025-03-16 12:28:50,679] 58 root - INFO - Outliers Removed for marital_status
+[2025-03-16 12:28:50,679] 49 root - INFO - Removing Outliers using IQR for occupation
+[2025-03-16 12:28:50,679] 58 root - INFO - Outliers Removed for occupation
+[2025-03-16 12:28:50,679] 49 root - INFO - Removing Outliers using IQR for occupation
+[2025-03-16 12:28:50,679] 58 root - INFO - Outliers Removed for occupation
+[2025-03-16 12:28:50,679] 49 root - INFO - Removing Outliers using IQR for relationship
+[2025-03-16 12:28:50,679] 58 root - INFO - Outliers Removed for relationship
+[2025-03-16 12:28:50,679] 49 root - INFO - Removing Outliers using IQR for relationship
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for relationship
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for race
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for race
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for race
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for race
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for sex
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for sex
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for sex
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for sex
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for capital_gain
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for capital_gain
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for capital_gain
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for capital_gain
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for capital_loss
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for capital_loss
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for capital_loss
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for capital_loss
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for hours_per_week
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for hours_per_week
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for hours_per_week
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for hours_per_week
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for native_country
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for native_country
+[2025-03-16 12:28:50,686] 49 root - INFO - Removing Outliers using IQR for native_country
+[2025-03-16 12:28:50,686] 58 root - INFO - Outliers Removed for native_country
+[2025-03-16 12:28:50,686] 24 root - INFO - Initiating Data Transformation
+[2025-03-16 12:28:50,686] 89 root - INFO - Splitting train data into dependent and independent features
+[2025-03-16 12:28:50,686] 93 root - INFO - Splitting test data into dependent and independent features
+[2025-03-16 12:28:50,718] 28 root - INFO - Splitting our data into dependent and independent features
+[2025-03-16 12:28:50,718] 21 root - INFO - Starting model evaluation...
+[2025-03-16 12:28:50,718] 25 root - INFO - Applying SMOTE to balance training data...
+[2025-03-16 12:28:50,799] 28 root - INFO - Training data after SMOTE: (34484, 13), Labels: (34484,)
+[2025-03-16 12:28:50,799] 31 root - INFO - Evaluating model: LogisticRegression
+[2025-03-16 12:28:50,799] 34 root - INFO - Performing Grid Search for hyperparameter tuning...
+[2025-03-16 12:29:00,054] 39 root - INFO - Best parameters for LogisticRegression: {'C': 0.001, 'class_weight': 'balanced', 'max_iter': 100, 'penalty': 'l2', 'solver': 'liblinear'}
+[2025-03-16 12:29:00,069] 48 root - INFO - Metrics for LogisticRegression: 0.7290514238885474
+[2025-03-16 12:29:00,069] 31 root - INFO - Evaluating model: DecisionTree
+[2025-03-16 12:29:00,069] 34 root - INFO - Performing Grid Search for hyperparameter tuning...
+[2025-03-16 12:29:04,025] 39 root - INFO - Best parameters for DecisionTree: {'class_weight': 'balanced', 'criterion': 'gini', 'max_depth': 6, 'max_features': 'log2', 'min_samples_leaf': 1, 'min_samples_split': 5, 'splitter': 'best'}
+[2025-03-16 12:29:04,041] 48 root - INFO - Metrics for DecisionTree: 0.7452366318377381
+[2025-03-16 12:29:04,041] 31 root - INFO - Evaluating model: RandomForest
+[2025-03-16 12:29:04,041] 34 root - INFO - Performing Grid Search for hyperparameter tuning...
+[2025-03-16 12:29:08,237] 39 root - INFO - Best parameters for RandomForest: {'class_weight': 'balanced', 'max_depth': 10, 'min_samples_split': 5, 'n_estimators': 50}
+[2025-03-16 12:29:08,775] 48 root - INFO - Metrics for RandomForest: 0.7853923376357304
+[2025-03-16 12:29:08,775] 50 root - INFO - Model evaluation completed successfully.
+[2025-03-16 12:29:08,775] 79 root - INFO - Best Model: LogisticRegression, accuracy: {0.7290514238885474}
