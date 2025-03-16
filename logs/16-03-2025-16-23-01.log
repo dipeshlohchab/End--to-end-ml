@@ -1,0 +1,8 @@
+[2025-03-16 16:23:03,552] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-03-16 16:23:03,554] 97 werkzeug - INFO -  * Debugger PIN: 149-363-631
+[2025-03-16 16:23:20,806] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 16:23:20] "GET / HTTP/1.1" 200 -
+[2025-03-16 16:23:48,384] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 16:23:48] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2025-03-16 16:23:48,581] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 16:23:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-03-16 16:23:48,581] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 16:23:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-03-16 16:23:48,644] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 16:23:48] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=0NCbELK8NSvfqqScwGiy HTTP/1.1" 200 -
+[2025-03-16 16:24:14,434] 97 werkzeug - INFO -  * Detected change in 'e:\\end to end ml project\\end--to-end-ml\\src\\pipeline\\prediction_pipeline.py', reloading

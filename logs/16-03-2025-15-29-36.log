@@ -1,0 +1,9 @@
+[2025-03-16 15:29:39,202] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-03-16 15:29:39,202] 97 werkzeug - INFO -  * Debugger PIN: 149-363-631
+[2025-03-16 15:29:41,043] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:29:41] "GET / HTTP/1.1" 200 -
+[2025-03-16 15:31:30,195] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:31:30] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2025-03-16 15:31:30,382] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:31:30] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-03-16 15:31:30,384] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:31:30] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-03-16 15:31:30,492] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:31:30] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=cAqWeRl0oNgbmLVlu6qc HTTP/1.1" 200 -
+[2025-03-16 15:31:30,492] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:31:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 15:31:30,515] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:31:30] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -

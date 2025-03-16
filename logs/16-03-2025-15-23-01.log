@@ -1,0 +1,20 @@
+[2025-03-16 15:23:04,187] 97 werkzeug - WARNING -  * Debugger is active!
+[2025-03-16 15:23:04,187] 97 werkzeug - INFO -  * Debugger PIN: 149-363-631
+[2025-03-16 15:23:37,889] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:37] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2025-03-16 15:23:38,019] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:38] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:38,024] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:38] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:38,170] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:38] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=1nXl7BznIln7LLF3qXES HTTP/1.1" 200 -
+[2025-03-16 15:23:38,173] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:38,197] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:38] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:44,604] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:44] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2025-03-16 15:23:44,646] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:44] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:44,654] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:44] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:44,874] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=1nXl7BznIln7LLF3qXES HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:44,890] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:44,898] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:44] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:49,689] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:49] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+[2025-03-16 15:23:49,732] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:49] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:49,744] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:49] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:49,957] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=1nXl7BznIln7LLF3qXES HTTP/1.1[0m" 304 -
+[2025-03-16 15:23:49,961] 97 werkzeug - INFO - 127.0.0.1 - - [16/Mar/2025 15:23:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[2025-03-16 15:24:20,834] 97 werkzeug - INFO -  * Detected change in 'E:\\END TO END ML PROJECT\\End--to-end-ml\\app.py', reloading
